@@ -1,9 +1,9 @@
 # Site settings
-title: "TextLog"
+title: "Solve et Coagula"
 description: "Minimalist Jekyll theme for documentation site"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: ""
-author: "John Doe"
+baseurl: "/solvetcoagula" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+url: "https://rckmachado.github.io"
+author: "rckmachado"
 
 # Build settings
 kramdown:
